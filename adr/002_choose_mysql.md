@@ -1,6 +1,6 @@
 # Title: Decision of MySQL Database Management System
 
-# Status: accepted
+# Status: ACCEPTED
 
 # Context: MySQL Docker containers are ready and available in the Docker Container Hub, making it an easy to use environment.
 
