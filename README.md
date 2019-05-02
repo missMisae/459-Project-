@@ -1,7 +1,4 @@
-#readme.md
-
-
-CSCI-459 Project
+# CSCI-459 Project
 
 
 Carson Smart, Misae Evans, Grayson Stiglbauer, Larry Abraham
